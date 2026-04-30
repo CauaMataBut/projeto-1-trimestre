@@ -1,7 +1,11 @@
 body{
-    background-color: darkorange;
+    background-color: #DAA520;
 }
 
 header{
-    background-color: orange;
+    background-color:#E2725B
+    ;
+}
+header div img{
+    width: 300px;
 }
