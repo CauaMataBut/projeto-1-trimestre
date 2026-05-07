@@ -1,11 +1,17 @@
 body{
     background-color: #DAA520;
+
 }
 
 header{
-    background-color:#E2725B
-    ;
+    background-color:#E2725B;
+    text-align:center
 }
-header div img{
+#img-coliseu-romano{
     width: 300px;
+}
+.paragrafo{
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
 }
